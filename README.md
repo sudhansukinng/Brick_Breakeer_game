@@ -13,6 +13,6 @@ Run `python/python3 brick_breaker.py`
 
 ## Ending Image
 
-![game_end](https://github.com/sudhansukinng/Brick_Breaker_game/assets/40287143/0544a4d7-99e1-4b90-bab8-05048639fc34)
 
+![game_end](https://github.com/sudhansukinng/Brick_Breaker_game/assets/40287143/ffa242a8-fb26-4194-9b0e-9594a5e144e4)
 
