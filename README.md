@@ -6,3 +6,11 @@ Brick Breaker (The game) is a Breakout clonewhich the player must smash a wall o
 
 Run `python/python3 brick_breaker.py`
 
+## Starting image.
+
+![Image Start](/images/game_start.png)
+
+## Ending Image
+
+![Image End](/image/game_end.png)
+
